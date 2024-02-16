@@ -2,7 +2,11 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-	return <div></div>;
+	return (
+		<div>
+			<p>App</p>
+		</div>
+	);
 }
 
 export default App;
