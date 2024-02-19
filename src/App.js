@@ -5,6 +5,7 @@ function App() {
 	return (
 		<div>
 			<p>App</p>
+			<p>to fork or not to fork?</p>
 		</div>
 	);
 }
